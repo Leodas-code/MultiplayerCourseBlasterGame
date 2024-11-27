@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "Blaster",
+			"Name": "Blaster";
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
@@ -23,9 +23,9 @@
 			"Name": "Bridge",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
+				"fuck",
+				"fuck",
+				"fuck"
 			]
 		}
 	]
